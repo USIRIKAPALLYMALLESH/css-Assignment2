@@ -3,7 +3,7 @@
     padding: 0px;
 }
 nav{
-    background-image:linear-gradient(black,gray); 
+    background-image:linear-gradient(black,rgb(108, 101, 101)); 
     width: 100%;
     padding: 2%;
 }
